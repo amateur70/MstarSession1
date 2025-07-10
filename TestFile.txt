@@ -1,1 +1,2 @@
 Git Session Day 2 test file
+Line 2 changes
